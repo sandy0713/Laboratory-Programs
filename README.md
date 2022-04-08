@@ -1,2 +1,3 @@
 # Laboratory-Programs
-Java and other laboratory programs
+This repopsitory contains all laboratory programs of Java Lab and Software Engineering Lab.
+:)
